@@ -1,0 +1,3 @@
+/home/robin/projects/ThreadPool/build/CMakeFiles/threadpool.dir
+/home/robin/projects/ThreadPool/build/CMakeFiles/edit_cache.dir
+/home/robin/projects/ThreadPool/build/CMakeFiles/rebuild_cache.dir
